@@ -95,6 +95,7 @@ button:hover {
 
   .c-title {
     font-size: 30px;
+    margin-top: 15px;
   }
 
   .c-info-item {
@@ -103,7 +104,7 @@ button:hover {
   }
 
   .c-desc {
-    margin-bottom: 10px;
+    margin: 20px 0px;
   }
 
   form {

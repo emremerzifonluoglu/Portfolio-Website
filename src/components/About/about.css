@@ -50,6 +50,8 @@ a.sub{
 
 .a-desc{
     font-weight: 300;
+    width: 90%;
+    
 }
 
 @media screen and (max-width:480px) {
