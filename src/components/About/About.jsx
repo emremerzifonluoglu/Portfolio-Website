@@ -1,5 +1,5 @@
 import "./about.css"
-// import foto from "../../img/IMG_0644.jpeg";
+import foto from "../../img/about-img.jpg";
 function About() {
   return (
     <div className='a'>
@@ -8,7 +8,7 @@ function About() {
         <div className="a-card bg">
         </div>
         <div className="a-card">
-            <img src="https://images.pexels.com/photos/11717762/pexels-photo-11717762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" className="a-img" />
+            <img src={foto} alt="" className="a-img" />
         </div>
     </div>
     <div className="a-right">
