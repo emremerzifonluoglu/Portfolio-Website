@@ -12,7 +12,6 @@ const themeReducer = (state, action) => {
             return state;
     }
 };
-
 export const ThemeProvider = (props) => {
     const [state, dispatch] = useReducer(themeReducer, Initial_State);
 
