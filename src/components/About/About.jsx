@@ -13,8 +13,8 @@ function About() {
     </div>
     <div className="a-right">
         <h1 className="atitle">About Me</h1>
-        <p className="a-sub">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias quasi sapiente neque.consectetur adipisicing elit.</p>
-        <p className="a-desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum fuga amet reprehenderit officiis hic commodi cumque quo! Quas corrupti omnis ipsum possimus recusandae obcaecati cupiditate, accusantium harum officiis reiciendis soluta.</p>
+        <p className="a-sub">   I am Emre MERZİFONLUOĞLU, a graduate of Gazi University Electrical Education in 2015 and a student of Akdeniz University Electrical and Electronics Engineering.</p>
+        <p className="a-desc">   I aim to combine the theoretical education background I gained at Gazi University and Akdeniz University with the practical knowledge I will gain during my work in the sector. As a person who wishes to have a good experience in my working life, is open to learning, loves to work and believes in continuous education, I think that I can improve myself while adding value to the sector.</p>
     </div>    
     </div>
   )

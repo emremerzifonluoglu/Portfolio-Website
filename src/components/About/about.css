@@ -16,6 +16,7 @@
 
 .a-right{
     flex: 1;
+    
    
 }
 
@@ -42,10 +43,13 @@
 
 a.title{
     font-weight: 400;
+    
 }
 
-a.sub{
+.a-sub{
     margin: 20px 0px;
+    width: 90%;
+    
 }
 
 .a-desc{

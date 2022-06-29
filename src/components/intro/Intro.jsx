@@ -1,5 +1,5 @@
 import "./intro.css"
-// import Me from "../../img/";
+// import Me from "../../img/IMG_8462.JPG";
 
 function intro() {
   return (
@@ -17,9 +17,9 @@ function intro() {
                         <div className="i-title-item">UI/UX Designer</div>
                     </div>
                 </div>
-                <p className="i-disc">
-                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima odit repellat, qui assumenda earum quos placeat rem labore aperiam. Neque aperiam cumque voluptatem provident sint, consequuntur dolor corporis a aut.
-                </p>
+                {/* <p className="i-disc">
+                I am Emre MERZİFONLUOĞLU, a graduate of Gazi University Electrical Education in 2015 and a student of Akdeniz University Electrical and Electronics Engineering.
+                </p> */}
             </div>
             <svg
           width="75"
