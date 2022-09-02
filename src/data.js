@@ -6,8 +6,8 @@ export const products = [
     },
     {
         id: 2,
-        img: "https://raw.githubusercontent.com/emremerzifonluoglu/portfolio-website/main/src/img/todos-list.jpg",
-        link: "https://picsum.photos/id/67/400/300",
+        img: "https://raw.githubusercontent.com/emremerzifonluoglu/Asian-Kiychen-Menu/main/asian-kitchen's-menu.jpg",
+        link: "https://asiankitchenmenu.netlify.app/",
     },
     {
         id: 3,
@@ -16,7 +16,7 @@ export const products = [
     },
     {
         id: 4,
-        img: "https://picsum.photos/id/27/400/300",
+        img: "https://raw.githubusercontent.com/emremerzifonluoglu/portfolio-website/main/src/img/todos-list.jpg",
         link: "https://picsum.photos/id/27/400/300",
     },
     {
