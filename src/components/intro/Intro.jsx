@@ -1,27 +1,25 @@
-import "./intro.css"
+import "./intro.css";
 // import Me from "../../img/IMG_8462.JPG";
 
 function intro() {
   return (
-    <div className='i'>
-        <div className="i-left">
-            <div className="i-left-wrapper">
-                <h2 className="i-intro">Hello, My name is</h2>
-                <h1 className="i-name">Emre Merzifonluoğlu</h1>
-                <div className="i-title">
-                    <div className="i-title-wrapper">
-                        <div className="i-title-item">Web Devoloper</div>
-                        <div className="i-title-item">Electric Enginer</div>
-                        <div className="i-title-item">Writer</div>
-                        <div className="i-title-item">Photographer</div>
-                        <div className="i-title-item">UI/UX Designer</div>
-                    </div>
-                </div>
-                {/* <p className="i-disc">
+    <div className="i">
+      <div className="i-left">
+        <div className="i-left-wrapper">
+          <h2 className="i-intro">Hello, My name is</h2>
+          <h1 className="i-name">Emre Merzifonluoğlu</h1>
+          <div className="i-title">
+            <div className="i-title-wrapper">
+              <div className="i-title-item">Web Developer</div>
+              <div className="i-title-item">Frontend Developer</div>
+              <div className="i-title-item">Web Disgner</div>
+            </div>
+          </div>
+          {/* <p className="i-disc">
                 I am Emre MERZİFONLUOĞLU, a graduate of Gazi University Electrical Education in 2015 and a student of Akdeniz University Electrical and Electronics Engineering.
                 </p> */}
-            </div>
-            <svg
+        </div>
+        <svg
           width="75"
           height="75"
           viewBox="0 0 75 75"
@@ -77,15 +75,13 @@ function intro() {
             </g>
           </g>
         </svg>
-        </div>
-        <div className="i-right">
-            <div className="i-bg"></div>
-            {/* <img src={Me} alt="" className="i-img" /> */}
-
-        </div>
-        
+      </div>
+      <div className="i-right">
+        <div className="i-bg"></div>
+        {/* <img src={Me} alt="" className="i-img" /> */}
+      </div>
     </div>
-  )
+  );
 }
 
-export default intro
+export default intro;
