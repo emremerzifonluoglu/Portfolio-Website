@@ -10,7 +10,7 @@ function ProductList() {
           Hi you can visit my github account to see my projects and more.
           <br />
           <br />
-          <a href="https://github.com/emremerzifonluoglu" target="_blank">
+          <a href="https://github.com/emremerzifonluoglu" target="blank">
             <button>Github Link</button>
           </a>
         </p>
