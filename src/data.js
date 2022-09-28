@@ -1,7 +1,7 @@
 export const products = [
     {
         id: 1,
-        img: "https://raw.githubusercontent.com/emremerzifonluoglu/portfolio-website/main/src/img/portfolio-website.jpg",
+        img: "https://github.com/emremerzifonluoglu/portfolio-website/blob/main/src/img/portfolio-website.jpg",
         link: "https://emremerzifonluglu.netlify.app/",
     },
     {
